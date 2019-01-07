@@ -1,0 +1,5 @@
+D:\sliit\4th year\CDAP\proj_workspace\spellchecker\obj\Debug\SpellCheckDemo.csprojAssemblyReference.cache
+D:\sliit\4th year\CDAP\proj_workspace\spellchecker\obj\Debug\SpellCheckDemo.csproj.ResolveComReference.cache
+D:\sliit\4th year\CDAP\proj_workspace\spellchecker\obj\Debug\SpellCheckDemo.Form1.resources
+D:\sliit\4th year\CDAP\proj_workspace\spellchecker\obj\Debug\SpellCheckDemo.csproj.GenerateResource.cache
+D:\sliit\4th year\CDAP\proj_workspace\spellchecker\obj\Debug\SpellCheckDemo.csproj.CoreCompileInputs.cache
